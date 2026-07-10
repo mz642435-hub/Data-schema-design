@@ -45,7 +45,7 @@ sources
 ingestion_runs
   ↓
 raw_reviews
-
+```
 ---
 
 ## 3. Table Descriptions
